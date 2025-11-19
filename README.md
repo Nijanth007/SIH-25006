@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:11-11-2025
-## Register Number:212224240041
-## Name:FRANKLIN.F
+## Register Number:212224230186
+## Name:NIJANTH K
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
